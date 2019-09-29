@@ -1,0 +1,1 @@
+{"root":{"data":{"id":"bxcash4fucw0","created":1569741132836,"text":"数据结构与算法","note":"1. 广义\n\t* 数据结构\n    \t* 指一组数据的存储结构\n    * 算法\n    \t* 操作数据的一组方法\n\n2. 狭义\n\t* 某些著名的数据结构和算法\n    \t* 比如队列、栈、堆、二分查找、动态规划\n        * 这些都是前人智慧的结晶"},"children":[]},"template":"right","theme":"fresh-green","version":"1.4.43"}
